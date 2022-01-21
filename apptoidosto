@@ -1,0 +1,99 @@
+{
+
+
+	"data": [
+
+
+		{
+			"isNative": false,
+			"title": "1 - create photo collages",
+			"description": "The PhotoGrid app makes it easy to create photo collages. I used it to create this simple collage from 2 photos of me and my friends at the Color Me Rad 5K,Here’s how to do it: 1. Open the app and tap on HD Grid. 2. Tap on the photo album to select photos from. I chose Camera. 3. Select which photos to include in the collage. Your selected photos appear at the bottom of the screen. If you change your mind about a photo just select the x above the photo to remove it from the selection. Tap the green arrow at the bottom right of the screen to continue. 4. The photo collage is automatically populated with the selected photos. If you want to change the collage, tap the middle option at the bottom of the screen. To save the photo, tap on the green arrow pointing down at the top right of the screen. Select the resolution for the photo and the collage will be saved to a PhotoGrid album in the gallery.",
+		  "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+		},
+		{
+		        "isNative": true,
+			"title": "",
+			"description": "",
+		        "imageUrl":""
+		},
+
+		{
+			"isNative": false,
+			"title": "2 - Features",
+			"description": "The key to winning judged competitions is to make your entry stand out – do something that’s a little bit different to your competitors. In the case of a photo competition (in particular on Instagram), creating a collage is a simple and effective way to do this. Because so few people create collage entries for competitions, promoters don’t usually include in T&Cs that collages AREN’T allowed. But do check before you enter (you might even want to tweet or ask them on Facebook). In a recent Paym competition, £250 was awarded daily to the best photo, and several of the entries were collages! There are several reasons why it might be worth creating a collage entry for a photo competition: You have a story to tell, and one photo isn’t enough – eg. making a recipe, stages of a project,To use Before & After shots – eg. a hairstyle or a room makeover, Create an outfit – eg. for how would you style… comps",
+      "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+
+		},	
+		{
+			"isNative": false,
+			"title": "3 - How To Use",
+			"description": "Open up the PhotoGrid app – there are ad banners at the top, ignore them! Tap Grid and select the photos you want to use by tapping, Tap Next and if required, tap Layout and swipe to choose a different one. Resize, move and rotate the photos in the boxes by using two finger. Move the box borders by tapping and dragging on the green dots. Swap photos if required by tapping them and choosing Swap then selecting a photo to swap with. You can Flip or Rotate individual photos using the icons at the bottom of the screen. Use the Border, Filter, Sticker, Background options if required. Tap Save – it will save to your camera roll. You can then attach it to emails, tweets or open in Instagram.",
+      "imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+
+		},
+
+		{
+			"isNative": false,
+			"title": "4 - Top Tip",
+			"description": "If you want to enter a fashion competition to style an outfit, take screenshots on your device to use. Here’s a collage I put together using iPhone screenshots from the Reiss website.There are lots more things you can do in PhotoGrid, including making slideshows and adding all sorts of fancy text, stickers and backgrounds. Personally, I think less is more – but why not have a play around and see what you can come up with?",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+		},
+		{
+		        "isNative": true,
+			"title": "",
+			"description": "",
+		        "imageUrl":""
+		},
+
+		{
+			"isNative": false,
+			"title": "5 - frame an image",
+			"description": "To help frame an image, trying turning on the Grid. To do so, open the Settings app, select Camera, then turn on the Grid option. This superimposes a set of lines that splits the screen into nine sections, so you can adhere to the rule of thirds. In short, line your subjects up along these lines to make a more appealing image. Don’t worry, the grid itself won’t show up on any of the photos – it’s purely there to help you when composing a shot.There are photo editing apps that will give you what you need but there are just some apps that will give you more, and you know what they say… more is good.  How about having a photo editor and video editor in one app? That would be awesome, right? It will truly save us more space for other important apps PhotoGrid is an app full of fun features such as Collage Maker, Photo Editing, Meme maker and more. There are tons of filters and stickers that you would love to use and explore. And this proves why PhotoGrid is one of the most popular photo editing apps out there.",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+		},
+
+		{
+			"isNative": false,
+			"title": "6 - More Features",
+			"description": "PhotoGrid has more to offer! From Video Editing, Create a Filmstrip, to creating your very own Memes! You’re going to have fun with the feature the app has to offer.Check out the samples below and try them out! Video Editing, Share your Creations! After saving your photos, you share it for the world to see. 1. Select any social media compatible with the app. 2. Add a caption and don’t forget your hashtags! 3. Tap “Share”! Create a Masterpiece! PhotoGrid might be intimidating at first as it offers far more than a normal photo editing app. With its easy interface, anyone can have fun while editing photos. So start using its other features and who knows what masterpiece you can create. Edit videos and photos in one app!",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+		},
+
+		{
+			"isNative": false,
+			"title": "7 - Creating a Photo Grid",
+			"description": "A Photo Grid is a way for you to showcase larger groups of images within a Project in a grid format. You can create your Photo Grid by clicking Photo Grid when creating a new Project, or adding one to an existing Project through the Add Media toolbar on the left of the Editor. *Note: Grid photos are uploaded and sorted in the order within the file picker, not by creation date; file name; last modified; size; orientation, etc. There is no limit to how many photos can be uploaded to one Photo Grid, nor how many Photo Grids can be created in one Project, However, we do recommend you consolidate for optimal viewing experience and load speed. Reorder Photo Grid Images,To reorder your Photo Grid images: Hover over your Photo Grid within your Project Editor. Click the blue pencil icon and select Edit Grid In Edit Grid, you can drag and drop or select Sort by A-Z or Z-A  dd/Delete Images In Photo Grid",
+			"imageUrl":"https://raw.githubusercontent.com/donaphex/pictures/main/offgrididid.png"
+		}
+
+	],
+
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.gridaphoto.makerguidetps",
+	"popAppName": "Install Now",
+	"popAppImage": "https://play-lh.googleusercontent.com/0_2MotBr1M_qk-exZD6UPsI4RHRIYACe7WtXocBGvPRDRxoMqY4CDiRp1XDR7nT8Bw=s512",
+	"popAppPackage": "",
+	"popAppIsActive": true,
+
+	"DetailImageUrl": "https://raw.githubusercontent.com/donaphex/pictures/main/YYYYYYO.png",
+	"DetailImageLink": "https://play.google.com/store/apps/details?id=com.gridaphoto.makerguidetps",
+	"DetailImageisActivated": true,
+
+	"NativeMenuImageUrl": "https://raw.githubusercontent.com/donaphex/pictures/main/YYYYYYO.png",
+	"NativeMenuImageLink": "https://play.google.com/store/apps/details?id=com.gridaphoto.makerguidetps",
+
+	"ADMOB_BANNER": "ca-app-pub-39456099942544/6300978111", 
+	"ADMOB_INTERSTITIAL": "ca-app-pub-39406099942544/1033173712",
+
+	"APPLOVIN_BANNER_ID": "c1b63b78134fa9bc",
+	"APPLOVIN_INTERSTITIAL_ID": "403844ff375db6fc",
+
+	"UNITY_BANNER": "Android_Banner",
+	"UNITY_INTERSTITIAL": "Android_Interstitial",
+	"UNITY_GAME_ID": "3916229",
+	"UNITY_TEST_MODE": false,
+
+	"SwitchAds": 1
+	
+	
+ 
+} 
