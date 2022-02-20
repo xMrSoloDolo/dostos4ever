@@ -1,0 +1,76 @@
+{
+
+
+	"data": [
+
+		{
+			"isNative": false,
+			"title": "1 - How To Get NoteIt?",
+			"description": "Noteit is your new love language. Connect with your special partner or friend, share good moments and express the cutest messages through Noteit. Enjoy! It's Noteit time.",
+		        "imageUrl":"https://raw.githubusercontent.com/xMrSoloDolo/images/main/notttwo.jpg"
+		},
+
+		{
+			"isNative": false,
+			"title": "2 - How To Use NoteIt Drawing?",
+			"description": "Noteit is a new kind of relationship goals between partners and friends. This is because it allows the simultaneous and synchronous exchange of notes.",
+			"imageUrl":"https://raw.githubusercontent.com/xMrSoloDolo/images/main/notttwo.jpg"
+		},
+		{
+			"isNative": false,
+			"title": "3 - How To Get NoteIt Drawing?",
+			"description": "Once installed, you immediately connect with your partner or friend through a code and that's it! You can now draw and write loving, cute and fun notes with a variety of brushes and colors available on Noteit.",
+			"imageUrl":"https://raw.githubusercontent.com/xMrSoloDolo/images/main/notttwo.jpg"
+		},
+		{
+			"isNative": false,
+			"title": "4 - Tips For NoteIt Drawing?",
+			"description": "You can also pin a widget to your home screen and see the note whenever you unlock your device.",
+			"imageUrl":"https://raw.githubusercontent.com/xMrSoloDolo/images/main/notttwo.jpg"
+		},
+		{
+			"isNative": false,
+			"title": "5 - NoteIt Drawing For Couples",
+			"description": "In addition, it allows you to record the good times on Noteit through the history of sent and received notes. Enjoy! Express yourself using Noteit.",
+			"imageUrl":"https://raw.githubusercontent.com/xMrSoloDolo/images/main/notttwo.jpg"
+		},
+		{
+			"isNative": false,
+			"title": "6 - Use NoteIt With Partner, Friends",
+			"description": "Once installed, you immediately connect with your partner or friend through a code and that's it! You can now draw and write loving, cute and fun",
+			"imageUrl":"https://raw.githubusercontent.com/xMrSoloDolo/images/main/notttwo.jpg"
+		}
+
+	],
+
+	"popAppLink": "https://play.google.com/store/apps/details?id=com",
+	"popAppName": "Fr",
+	"popAppImage": "https://raw.githubusercontent.com/",
+	"popAppPackage": "com",
+	"popAppIsActive": false,
+
+	"DetailImageUrl": "https://raw.githubusercontent.com",
+	"DetailImageLink": "https://www.yoe.com/",
+	"DetailImageisActivated": false,
+
+	"NativeMenuImageUrl": "https://raw.githubusercontent.com/tjhp.png",
+	"NativeMenuImageLink": "https://www.facebook.com/",
+
+	"ADMOB_BANNER":       "ca-app-pub-3940256099942544/6300978111",
+	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
+
+	"APPLOVIN_BANNER_ID": "794c99cd55395964b",
+	"APPLOVIN_INTERSTITIAL_ID": "61724942cdf7",
+
+	"UNITY_BANNER": "Android_Banner",
+	"UNITY_INTERSTITIAL": "Android_Interstitial",
+	"UNITY_GAME_ID": "3914595",
+	"UNITY_TEST_MODE": false,
+	
+	"APP_KEY": "fc45959",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"SwitchAds": 1
+
+}
