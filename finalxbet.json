@@ -1,0 +1,83 @@
+{
+    "Guide_Andromo":{
+        //Ads
+       "Enable_Applovin":true,
+       "Enable_On_back_Ads":true,
+       "Interstitial_Applovin_ButtonBack":"2fb38336c560d201",
+       "Interstitial_Applovin":"2fb38336c560d201",
+       "Mrec_Applovin":"ac8b3f28ec3f0b3d",
+       "Banner_Applovin":"d063c02502087ff6",
+       
+       
+       //image cpa 
+       
+       "Url_Image_Cpa":"https://www.google.com/",
+       "Visibility_image_cpa":true,
+       "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
+       
+       
+       //Popup 
+        "Visibility_popup":true,
+        "Title_View_popup":"Free fire",
+        "Url_button_popup":"https://coinmarketcap.com/",
+        "Image_View_popup":"https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2"
+       
+       
+       
+       
+      , "items":[
+          //tip
+            {
+     "Title":"Nature Image Firt Guide"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1HW5p1VwvC4lq3b7ObbAX6tNGeXzMRWW5"
+     ,"Description" :"Nature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt Guide"
+      }
+        //tip
+    ,{
+     "Title":"FansOnly For This Tips"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1DBdrrtS3-f1oBMAfle81NihDXtXCr_Zn"
+     ,"Description" :"FansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This Tips"
+      }
+        //tip
+       ,{
+     "Title":"Follow this Tips and be millionaire"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=10OjD6wlnzLHY7X9uC_zRJf08YFklqKZq"
+     ,"Description" :"Follow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaire"
+      }
+        //tip
+       ,{
+     "Title":"Take This Action Now"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1LjPHoi77gLtooN088HowXxDIg7kSo9_h"
+     ,"Description" :"Take This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action Now"
+      }
+        //tip
+       ,{
+     "Title":"Take This Action Now"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1LjPHoi77gLtooN088HowXxDIg7kSo9_h"
+     ,"Description" :"Take This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action Now"
+      }
+        //tip
+       ,{
+     "Title":"Take This Action Now"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1LjPHoi77gLtooN088HowXxDIg7kSo9_h"
+     ,"Description" :"Take This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action Now"
+      }
+        //tip
+       ,{
+     "Title":"FansOnly For This Tips"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1DBdrrtS3-f1oBMAfle81NihDXtXCr_Zn"
+     ,"Description" :"FansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This Tips"
+      }
+        //tip
+       ,{
+     "Title":"Take This Action Now"
+     , "Image_Url": "https://drive.google.com/uc?export=download&id=1LjPHoi77gLtooN088HowXxDIg7kSo9_h"
+     ,"Description" :"Take This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action Now"
+      }
+
+       
+      
+           
+      ]
+}
+}
