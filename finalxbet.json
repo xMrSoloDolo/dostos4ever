@@ -1,8 +1,8 @@
 {
     "Guide_Andromo":{
         //Ads
-       "Enable_Applovin":true,
-       "Enable_On_back_Ads":true,
+       "Enable_Applovin":false,
+       "Enable_On_back_Ads":false,
        "Interstitial_Applovin_ButtonBack":"2fb38336c560d201",
        "Interstitial_Applovin":"2fb38336c560d201",
        "Mrec_Applovin":"ac8b3f28ec3f0b3d",
