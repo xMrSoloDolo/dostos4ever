@@ -2,7 +2,7 @@
     "Guide_Andromo":{
         //Ads
        "Enable_Applovin":true,
-       "Enable_On_back_Ads":false,
+       "Enable_On_back_Ads":true,
        "Interstitial_Applovin_ButtonBack":"2fb38336c560d201",
        "Interstitial_Applovin":"2fb38336c560d201",
        "Mrec_Applovin":"ac8b3f28ec3f0b3d",
@@ -12,12 +12,12 @@
        //image cpa 
        
        "Url_Image_Cpa":"https://www.google.com/",
-       "Visibility_image_cpa":false,
+       "Visibility_image_cpa":true,
        "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
        
        
        //Popup 
-        "Visibility_popup":false,
+        "Visibility_popup":true,
         "Title_View_popup":"Free fire",
         "Url_button_popup":"https://coinmarketcap.com/",
         "Image_View_popup":"https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2"
@@ -28,50 +28,51 @@
       , "items":[
           //tip
             {
-     "Title":"how to get 1xbet"
-     , "Image_Url": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/nine.jpg"
-     ,"Description" :""
+     "Title":"Nature Image Firt Guide"
+     , "Image_Url": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/ffhx.jpg"
+     ,"Description" :"Nature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt GuideNature Image Firt Guide"
       }
         //tip
     ,{
-     "Title":"what is 1xbet"
-     , "Image_Url": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/ffhx.jpg"
-     ,"Description" :""
+     "Title":"FansOnly For This Tips"
+     , "Image_Url": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/nine.jpg"
+     ,"Description" :"FansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This Tips"
       }
         //tip
        ,{
-     "Title":"get 1xbet bonus"
+     "Title":"Follow this Tips and be millionaire"
      , "Image_Url": "https://drive.google.com/uc?export=download&id=10OjD6wlnzLHY7X9uC_zRJf08YFklqKZq"
-     ,"Description" :""
+     ,"Description" :"Follow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaire"
       }
         //tip
        ,{
-     "Title":"how to win in 1xbet"
+     "Title":"Take This Action Now"
      , "Image_Url": "https://drive.google.com/uc?export=download&id=1LjPHoi77gLtooN088HowXxDIg7kSo9_h"
-     ,"Description" :""
+     ,"Description" :"Take This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action Now"
       }
         //tip
        ,{
-     "Title":"1xbet tips"
+     "Title":"Take This Action Now"
      , "Image_Url": "https://drive.google.com/uc?export=download&id=1LjPHoi77gLtooN088HowXxDIg7kSo9_h"
-     ,"Description" :""
+     ,"Description" :"Take This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action Now"
       }
         //tip
        ,{
-     "Title":"how to always win in 1xbet"
+     "Title":"Take This Action Now"
      , "Image_Url": "https://drive.google.com/uc?export=download&id=1LjPHoi77gLtooN088HowXxDIg7kSo9_h"
-     ,"Description" :""
+     ,"Description" :"Take This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action Now"
       }
         //tip
        ,{
-     "Title":"more 1xbet tips"
+     "Title":"FansOnly For This Tips"
      , "Image_Url": "https://drive.google.com/uc?export=download&id=1DBdrrtS3-f1oBMAfle81NihDXtXCr_Zn"
-     ,"Description" :""
+     ,"Description" :"FansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This TipsFansOnly For This Tips"
+      }
         //tip
        ,{
-     "Title":"download 1xbet"
+     "Title":"Take This Action Now"
      , "Image_Url": "https://drive.google.com/uc?export=download&id=1LjPHoi77gLtooN088HowXxDIg7kSo9_h"
-     ,"Description" :""
+     ,"Description" :"Take This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action NowTake This Action Now"
       }
 
        
