@@ -12,12 +12,12 @@
        //image cpa 
        
        "Url_Image_Cpa":"https://www.google.com/",
-       "Visibility_image_cpa":true,
+       "Visibility_image_cpa":false,
        "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
        
        
        //Popup 
-        "Visibility_popup":true,
+        "Visibility_popup":false,
         "Title_View_popup":"Free fire",
         "Url_button_popup":"https://coinmarketcap.com/",
         "Image_View_popup":"https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2"
@@ -41,7 +41,7 @@
         //tip
        ,{
      "Title":"Follow this Tips and be millionaire"
-     , "Image_Url": "https://drive.google.com/uc?export=download&id=10OjD6wlnzLHY7X9uC_zRJf08YFklqKZq"
+     , "Image_Url": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/nine.jpg"
      ,"Description" :"Follow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaireFollow this Tips and be millionaire"
       }
         //tip
